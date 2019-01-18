@@ -14,6 +14,7 @@ a note of shortcuts I use most.
 |Show Explorer                  |Ctrl + Shift + E          |Toggle Full Screen             |F11                       |
 |Back                           |Alt + ←                   |Toggle Panel                   |Ctrl + Shift + P          |
 |Move Editor into Next Group    |Ctrl + Alt + →            |Move Editor into Previous Group|Ctrl + Alt + ←            |
+|Quick Fix                      |Ctrl + .                  |
 
 ## Chrome
 |Action                         |Key                       |Action                         |Key                       |
