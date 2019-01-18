@@ -10,5 +10,5 @@ a note of shortcuts I use most.
 ## Visual Studio Code
 |Action                         |Key              |Action                         |Key              |
 |-------------------------------|-----------------|-------------------------------|-----------------|
-|Toggle Integrated Terminal     |Ctrl + Alt + T   |Toggle Side Bar                |Shift + Ctrl + B |
+|Toggle Integrated Terminal     |Ctrl + Alt + T   |Toggle Side Bar                |Ctrl + Shift + B |
 |Show Explorer                  |Ctrl + Shift + E |Toggle Full Screen             |F11              |
