@@ -12,3 +12,11 @@ a note of shortcuts I use most.
 |-------------------------------|-----------------|-------------------------------|-----------------|
 |Toggle Integrated Terminal     |Ctrl + Alt + T   |Toggle Side Bar                |Ctrl + Shift + B |
 |Show Explorer                  |Ctrl + Shift + E |Toggle Full Screen             |F11              |
+
+## Chrome
+|Action                         |Key              |Action                         |Key              |
+|-------------------------------|-----------------|-------------------------------|-----------------|
+
+## Rider
+|Action                         |Key              |Action                         |Key              |
+|-------------------------------|-----------------|-------------------------------|-----------------|
