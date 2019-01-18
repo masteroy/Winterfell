@@ -17,6 +17,7 @@ a note of shortcuts I use most.
 ## Chrome
 |Action                         |Key              |Action                         |Key              |
 |-------------------------------|-----------------|-------------------------------|-----------------|
+|Toggle Bookmarks Bar           |Ctrl + Shift +B  |
 
 ## Rider
 |Action                         |Key              |Action                         |Key              |
