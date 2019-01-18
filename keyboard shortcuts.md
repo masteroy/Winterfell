@@ -10,7 +10,7 @@ a note of shortcuts I use most.
 ## Visual Studio Code
 |Action                         |Key                       |Action                         |Key                       |
 |-------------------------------|--------------------------|-------------------------------|--------------------------|
-|Toggle Integrated Terminal     |Ctrl + Alt + T            |Toggle Side Bar                |Ctrl + Shift + B          |
+|Toggle Integrated Terminal     |Ctrl + Shift + T          |Toggle Side Bar                |Ctrl + Shift + B          |
 |Show Explorer                  |Ctrl + Shift + E          |Toggle Full Screen             |F11                       |
 |Back                           |Alt + ←                   |Toggle Panel                   |Ctrl + Shift + P          |
 |Move Editor into Next Group    |Ctrl + Alt + →            |Move Editor into Previous Group|Ctrl + Alt + ←            |
