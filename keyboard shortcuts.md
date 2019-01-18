@@ -19,7 +19,7 @@ a note of shortcuts I use most.
 |-------------------------------|--------------------------|-------------------------------|--------------------------|
 |Toggle Bookmarks Bar           |Ctrl + Shift +B           |Jump to the next open tab      |Ctrl + Tab                |
 |Jump to the previous open tab  |Vtrl + Shift + Tab        |Jump to a specific tab         |Ctrl + 1 through Ctrl + 8 |
-|Jump to the last tab           |Ctrl + 9                  |Open Developer Tools           |Ctrl + Shift + T          |
+|Jump to the last tab           |Ctrl + 9                  |Open Developer Tools           |Ctrl + Shift + I          |
 
 ## Rider
 |Action                         |Key                       |Action                         |Key                       |
