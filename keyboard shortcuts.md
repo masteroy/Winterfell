@@ -10,11 +10,12 @@ A note of shortcuts I use most.
 ## Visual Studio Code
 |Action                         |Key                       |Action                         |Key                       |
 |-------------------------------|--------------------------|-------------------------------|--------------------------|
+|Show Explorer                  |Ctrl + Shift + E          |Show Debugger                  |Ctrl + Shift + D          |
 |Toggle Integrated Terminal     |Ctrl + Shift + T          |Toggle Side Bar                |Ctrl + Shift + B          |
-|Show Explorer                  |Ctrl + Shift + E          |Toggle Full Screen             |Alt + 0                   |
-|Toggle Panel                   |Ctrl + Shift + P          |Toggle Line Command            |Ctrl + /                  |
+|Toggle Panel                   |Ctrl + Shift + P          |
+|Toggle Full Screen             |Alt + 0                   |
+|Quick Fix                      |Ctrl + .                  |Toggle Line Command            |Ctrl + /                  |
 |Replace                        |Ctrl + H                  |Search and Replace             |Ctrl + Shift + H          |
-|Quick Fix                      |Ctrl + .                  |
 |Back                           |Alt + ←                   |Forward                        |Alt + →                   |
 |Open Editor at Index           |Ctrl + 1 through Ctrl + 9 |Open Last Editor               |Ctrl + 0                  |
 |Open Next Editor               |Ctrl + Tab                |Open Previous Editor           |Ctrl + Shift + Tab        |
