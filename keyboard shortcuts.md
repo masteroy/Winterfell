@@ -11,7 +11,7 @@ A note of shortcuts I use most.
 |Action                         |Key                       |Action                         |Key                       |
 |-------------------------------|--------------------------|-------------------------------|--------------------------|
 |Toggle Integrated Terminal     |Ctrl + Shift + T          |Toggle Side Bar                |Ctrl + Shift + B          |
-|Show Explorer                  |Ctrl + Shift + E          |Toggle Full Screen             |F11                       |
+|Show Explorer                  |Ctrl + Shift + E          |Toggle Full Screen             |Alt + 0                   |
 |Toggle Panel                   |Ctrl + Shift + P          |Toggle Line Command            |Ctrl + /                  |
 |Replace                        |Ctrl + H                  |Search and Replace             |Ctrl + Shift + H          |
 |Quick Fix                      |Ctrl + .                  |
