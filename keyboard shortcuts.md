@@ -14,7 +14,8 @@ a note of shortcuts I use most.
 |Show Explorer                  |Ctrl + Shift + E          |Toggle Full Screen             |F11                       |
 |Back                           |Alt + ←                   |Toggle Panel                   |Ctrl + Shift + P          |
 |Move Editor into Next Group    |Ctrl + Alt + →            |Move Editor into Previous Group|Ctrl + Alt + ←            |
-|Quick Fix                      |Ctrl + .                  |
+|Quick Fix                      |Ctrl + .                  |Replace                        |Ctrl + H                  |
+|Search and Replace             |Ctrl + Shift + H          |
 
 ## Chrome
 |Action                         |Key                       |Action                         |Key                       |
@@ -28,4 +29,5 @@ a note of shortcuts I use most.
 |-------------------------------|--------------------------|-------------------------------|--------------------------|
 |Navigate File                  |Ctrl + P                  |Navigate Symbol                |Ctrl + Shift + P          |
 |Back                           |Alt + ←                   |Forward                        |Alt + →                   |
-|Close Tab                      |Ctrl + W                  |
+|Close Tab                      |Ctrl + W                  |Replace                        |Ctrl + H                  |
+|Search and Replace             |Ctrl + Shift + H          |
