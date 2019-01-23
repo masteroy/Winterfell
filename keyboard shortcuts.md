@@ -15,7 +15,7 @@ A note of shortcuts I use most.
 |Back                           |Alt + ←                   |Toggle Panel                   |Ctrl + Shift + P          |
 |Move Editor into Next Group    |Ctrl + Alt + →            |Move Editor into Previous Group|Ctrl + Alt + ←            |
 |Quick Fix                      |Ctrl + .                  |Replace                        |Ctrl + H                  |
-|Search and Replace             |Ctrl + Shift + H          |
+|Search and Replace             |Ctrl + Shift + H          |Toggle Line Command            |Ctrl + /                  |
 
 ## Chrome
 |Action                         |Key                       |Action                         |Key                       |
