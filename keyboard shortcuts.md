@@ -12,10 +12,13 @@ A note of shortcuts I use most.
 |-------------------------------|--------------------------|-------------------------------|--------------------------|
 |Toggle Integrated Terminal     |Ctrl + Shift + T          |Toggle Side Bar                |Ctrl + Shift + B          |
 |Show Explorer                  |Ctrl + Shift + E          |Toggle Full Screen             |F11                       |
-|Back                           |Alt + ←                   |Toggle Panel                   |Ctrl + Shift + P          |
+|Toggle Panel                   |Ctrl + Shift + P          |Toggle Line Command            |Ctrl + /                  |
+|Replace                        |Ctrl + H                  |Search and Replace             |Ctrl + Shift + H          |
+|Quick Fix                      |Ctrl + .                  |
+|Back                           |Alt + ←                   |Forward                        |Alt + →                   |
+|Open Editor at Index           |Ctrl + 1 through Ctrl + 9 |Open Last Editor               |Ctrl + 0                  |
+|Open Next Editor               |Ctrl + Tab                |Open Previous Editor           |Ctrl + Shift + Tab        |
 |Move Editor into Next Group    |Ctrl + Alt + →            |Move Editor into Previous Group|Ctrl + Alt + ←            |
-|Quick Fix                      |Ctrl + .                  |Replace                        |Ctrl + H                  |
-|Search and Replace             |Ctrl + Shift + H          |Toggle Line Command            |Ctrl + /                  |
 
 ## Chrome
 |Action                         |Key                       |Action                         |Key                       |
