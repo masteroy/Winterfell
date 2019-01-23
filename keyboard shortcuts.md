@@ -26,3 +26,6 @@ a note of shortcuts I use most.
 ## Rider
 |Action                         |Key                       |Action                         |Key                       |
 |-------------------------------|--------------------------|-------------------------------|--------------------------|
+|Navigate File                  |Ctrl + P                  |Navigate Symbol                |Ctrl + Shift + P          |
+|Back                           |Alt + ←                   |Forward                        |Alt + →                   |
+|Close Tab                      |Ctrl + W                  |
