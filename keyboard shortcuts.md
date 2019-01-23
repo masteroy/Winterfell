@@ -30,4 +30,4 @@ A note of shortcuts I use most.
 |Navigate File                  |Ctrl + P                  |Navigate Symbol                |Ctrl + Shift + P          |
 |Back                           |Alt + ←                   |Forward                        |Alt + →                   |
 |Close Tab                      |Ctrl + W                  |Replace                        |Ctrl + H                  |
-|Search and Replace             |Ctrl + Shift + H          |
+|Search and Replace             |Ctrl + Shift + H          |Toggle Line Command            |Ctrl + /                  |
