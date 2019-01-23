@@ -1,5 +1,5 @@
 # Keyboard Shortcuts
-a note of shortcuts I use most.
+A note of shortcuts I use most.
 
 ## System
 |Action                         |Key                       |Action                         |Key                       |
