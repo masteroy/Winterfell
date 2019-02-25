@@ -35,3 +35,4 @@ A note of shortcuts I use most.
 |Back                           |Alt + ←                   |Forward                        |Alt + →                   |
 |Close Tab                      |Ctrl + W                  |Replace                        |Ctrl + H                  |
 |Search and Replace             |Ctrl + Shift + H          |Toggle Line Command            |Ctrl + /                  |
+|Attach to Processs             |Ctrl + Alt + D            |
