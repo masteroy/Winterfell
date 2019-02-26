@@ -36,3 +36,7 @@ A note of shortcuts I use most.
 |Close Tab                      |Ctrl + W                  |Replace                        |Ctrl + H                  |
 |Search and Replace             |Ctrl + Shift + H          |Toggle Line Command            |Ctrl + /                  |
 |Attach to Processs             |Ctrl + Alt + D            |
+|Move Editor into Next Group    |Ctrl + Alt + →            |Move Editor into Previous Group|Ctrl + Alt + ←            |
+|Open Editor at Index           |Ctrl + 1 through Ctrl + 9 |Open Last Editor               |Ctrl + 0                  |
+|Open Next Editor               |Ctrl + Tab                |Open Previous Editor           |Ctrl + Shift + Tab        |
+
